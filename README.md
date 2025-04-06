@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cm313/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/cm313/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/cm313/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/cm313/LeetCode/tree/master/0075-sort-colors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/cm313/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/cm313/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cm313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
