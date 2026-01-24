@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/cm313/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/cm313/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/cm313/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/cm313/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/cm313/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/cm313/LeetCode/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/cm313/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/cm313/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/cm313/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/cm313/LeetCode/tree/master/0151-reverse-words-in-a-string) |
