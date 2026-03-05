@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cm313/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/cm313/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/cm313/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cm313/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cm313/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/cm313/LeetCode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/cm313/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
