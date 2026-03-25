@@ -1,5 +1,5 @@
 class Solution:
-    def find_intersection(self, numSmall: List[int], numBig: List[int], res: List[int], track):
+    def find_intersection(self, numSmall: List[int], numBig: set, res: List[int], track:dict):
         for i in numSmall:
             if i in numBig and track.setdefault(i,0) == 0:
                 res.append(i)
@@ -10,7 +10,7 @@ class Solution:
         res:List[int] = []
         track = {}
         if (len(nums1) < len(nums2)):
-           res = self.find_intersection(nums1, nums2, res, track)
+           res = self.find_intersection(nums1,set(nums2), res, track)
         else:
-           res = self.find_intersection(nums2, nums1, res, track)    
+           res = self.find_intersection(nums2, set(nums1), res, track)    
         return res
