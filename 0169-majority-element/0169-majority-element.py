@@ -1,14 +1,14 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        # dict = {}
-        # n =  len(nums)
-        # for i in range(n):
-        #    count = dict.setdefault(nums[i],0)
-        #    # dict.update({nums[i], count+1})
-        #    dict[nums[i]] = count+1
-        # for key, value in dict.items():
-        #     if value > n/2:
-        #         return key
-        nums.sort()
         n = len(nums)
-        return nums[int(n/2)]               
+        maj_ele = nums[0]
+        votes = 1
+        for i in range(1,n):
+            if nums[i] == maj_ele:
+                votes += 1
+            else:
+                votes -= 1
+            if votes == 0:
+                votes += 1
+                maj_ele = nums[i]
+        return maj_ele           
