@@ -8,6 +8,5 @@ class Solution:
             if prices[i] < min_price:
                 min_price = prices[i]
             elif prices[i] > min_price:
-                profit = prices[i] - min_price
-                max_profit  =  max(max_profit, profit)    
+                max_profit  =  max(max_profit, prices[i]-min_price)    
         return max_profit        
