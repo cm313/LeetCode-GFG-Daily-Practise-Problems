@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cm313/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/cm313/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/cm313/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/cm313/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cm313/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/cm313/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
