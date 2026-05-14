@@ -11,10 +11,10 @@ class Solution:
         while(s<=e):
             mid = s+int((e-s)/2)
             ans = guess(mid)
-            if ans == -1 :
-                e = mid -1
+            if ans == 0 :
+                return mid
             elif ans == 1 :
                 s = mid+1 
-            elif ans == 0 :
-                return mid         
+            else :
+                e = mid-1        
         
