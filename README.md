@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/cm313/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/cm313/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/cm313/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/cm313/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/cm313/LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/cm313/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/cm313/LeetCode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/cm313/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/cm313/LeetCode/tree/master/2942-find-words-containing-character) |
