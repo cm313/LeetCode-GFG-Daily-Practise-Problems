@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/cm313/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/cm313/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/cm313/LeetCode/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/cm313/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2942-find-words-containing-character](https://github.com/cm313/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/cm313/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/cm313/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/cm313/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/cm313/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
