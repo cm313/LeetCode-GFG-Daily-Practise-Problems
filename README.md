@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cm313/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/cm313/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/cm313/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/cm313/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/cm313/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/cm313/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/cm313/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/cm313/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cm313/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cm313/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/cm313/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/cm313/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/cm313/LeetCode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/cm313/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/cm313/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/cm313/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/cm313/LeetCode/tree/master/0771-jewels-and-stones) |
