@@ -33,11 +33,11 @@ class Solution:
             #     map[s[i]] = map.get(s[i])-1
             #     max_freq = max(max_freq, map.get(s[i]))
             #     i+=1
-            while((j-i+1)-max_freq > k):
+            while (j-i+1)-max_freq > k:
                 map[s[i]] = map.get(s[i])-1
-                max_freq = 0 
-                for value in map.values():
-                    max_freq = max(max_freq, value)
+                #max_freq = 0 
+                # for value in map.values():
+                #     max_freq = max(max_freq, value)
                 i+=1
             change = (j-i+1) - max_freq
             if change <= k:
