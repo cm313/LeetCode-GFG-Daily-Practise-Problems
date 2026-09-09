@@ -1,9 +1,8 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        sum = 0
         n = len(nums)
-        total_sum = int((n*(n+1))/2)
-        for i in nums:
-            sum += i
-        res = total_sum-sum
-        return res     
+        sum_total = (n*(n+1))//2
+        sum_curr = 0
+        for val in nums:
+            sum_curr = sum_curr+val
+        return sum_total - sum_curr    
